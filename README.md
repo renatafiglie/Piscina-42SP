@@ -2,7 +2,7 @@
 
 <h2>Processo seletivo para entrar na 42SP</h2>
 
-<p>Esses foram alguns dos projetos em que eu pude desenvolver habilidades tais como: C, SHELL</p>
+<p>Esses foram alguns dos projetos em que eu pude desenvolver habilidades tais como: C e SHELL</p>
 <ul>
 <li>Lista Shell 00</li>
 <li>Lista Shell 01</li>
